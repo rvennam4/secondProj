@@ -1,0 +1,15 @@
+/Users/ranjithvennam7/Projects/secondProject/secondProject/bin/Debug/net7.0/secondProject
+/Users/ranjithvennam7/Projects/secondProject/secondProject/bin/Debug/net7.0/secondProject.deps.json
+/Users/ranjithvennam7/Projects/secondProject/secondProject/bin/Debug/net7.0/secondProject.runtimeconfig.json
+/Users/ranjithvennam7/Projects/secondProject/secondProject/bin/Debug/net7.0/secondProject.dll
+/Users/ranjithvennam7/Projects/secondProject/secondProject/bin/Debug/net7.0/secondProject.pdb
+/Users/ranjithvennam7/Projects/secondProject/secondProject/obj/Debug/net7.0/secondProject.csproj.AssemblyReference.cache
+/Users/ranjithvennam7/Projects/secondProject/secondProject/obj/Debug/net7.0/secondProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ranjithvennam7/Projects/secondProject/secondProject/obj/Debug/net7.0/secondProject.AssemblyInfoInputs.cache
+/Users/ranjithvennam7/Projects/secondProject/secondProject/obj/Debug/net7.0/secondProject.AssemblyInfo.cs
+/Users/ranjithvennam7/Projects/secondProject/secondProject/obj/Debug/net7.0/secondProject.csproj.CoreCompileInputs.cache
+/Users/ranjithvennam7/Projects/secondProject/secondProject/obj/Debug/net7.0/secondProject.dll
+/Users/ranjithvennam7/Projects/secondProject/secondProject/obj/Debug/net7.0/refint/secondProject.dll
+/Users/ranjithvennam7/Projects/secondProject/secondProject/obj/Debug/net7.0/secondProject.pdb
+/Users/ranjithvennam7/Projects/secondProject/secondProject/obj/Debug/net7.0/secondProject.genruntimeconfig.cache
+/Users/ranjithvennam7/Projects/secondProject/secondProject/obj/Debug/net7.0/ref/secondProject.dll
